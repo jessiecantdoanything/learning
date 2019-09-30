@@ -1,3 +1,4 @@
+# <-- this is an octothorpe B)
 print("hello world")
 print("howdy, yonder!")
 print("what are we doing?")
