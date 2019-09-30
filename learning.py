@@ -1,0 +1,6 @@
+print("hello world")
+print("howdy, yonder!")
+print("what are we doing?")
+print("printing...yay!!")
+print("my head hurts")
+print("how do you make websites on here, is that even possible")
