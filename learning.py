@@ -26,4 +26,4 @@ print(3 + 2 < 5 - 7)
 # stating that i will solve another math equation
 print("now i will solve another math problem")
 # this is the math equation
-print(4 = 6 * 9 - 2 % 2)
+print(4 + 6 * 9 - 2.2 )
