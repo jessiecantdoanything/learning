@@ -23,3 +23,7 @@ print("is it true that 3 + 2 < 5 - 7")
 # this is the statement with the math equation telling us whether it is true or false
 print(3 + 2 < 5 - 7)
 
+# stating that i will solve another math equation
+print("now i will solve another math problem")
+# this is the math equation
+print(4 = 6 * 9 - 2 % 2)
