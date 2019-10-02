@@ -29,10 +29,10 @@ print("now i will solve another math problem")
 print(4 + 6 * 9 - 2.2 )
 
 # variables
-cars = 100
+cars = 180
 space_in_a_car = 4.0
 drivers = 30
-passengers = 90
+passengers = 115
 cars_not_driven = cars - drivers
 cars_driven = cars
 carpool_capacity = cars_driven * space_in_a_car
