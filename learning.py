@@ -44,3 +44,17 @@ print("there will be",cars_not_driven,"empty cars today.")
 print("we can transport",carpool_capacity,"people today.")
 print("we have",passengers,"to carpool today.")
 print("we need to put about",average_passengers_per_car,"in each car.")
+
+# more variables
+myName = "jessie"
+myAge = 15
+myHeight = 62
+myEyes = "brown"
+myTeeth = "white"
+myHair = "short hair"
+
+print("Let's talk about %s" % myName)
+print("she's %d inches tall!" % myHeight)
+print("she's has eyes and %s." % (myEyes, myHair))
+print("her teeth are usually %s depending on how much chai tea she's had.")
+print("if I add %d and %d, i get %d." % (myAge, myHeight, myAge + myHeight))
